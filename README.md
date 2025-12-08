@@ -1,16 +1,22 @@
+
+
+![Riftbound playloltcg](https://cdn1.riftbound-deck.org/F5DC9ACCFC058FA3B0B6BDA6766E6668.webp)
+
 ## Hi there 👋
 
-<!--
-**huhuhaheiovo/huhuhaheiovo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm the creator of playloltcg.help
 
-Here are some ideas to get you started:
+I'm building an unofficial Riftbound tools & rules reference website
+focused on helping players quickly find rules and build decks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Website: https://playloltcg.help/
+
+### What this project is about
+- Fast and clear rule lookup
+- Keyword-based rules search
+- Card & deck exploration tools
+- Community-driven improvements
+
+### Why I built it
+Riftbound rules can be hard to navigate during games.
+This project aims to make rule referencing quicker and clearer.

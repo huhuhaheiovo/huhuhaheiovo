@@ -1,7 +1,7 @@
 
 
-![Riftbound playloltcg](https://cdn1.riftbound-deck.org/F5DC9ACCFC058FA3B0B6BDA6766E6668.webp)
-
+![Riftbound playloltcg cardDIY](https://cdn1.riftbound-deck.org/F5DC9ACCFC058FA3B0B6BDA6766E6668.webp)
+![Riftbound playloltcg deck](https://cdn1.riftbound-deck.org/home_image/Snipaste_2025-10-31_23-27-29.webp)
 ## Hi there 👋
 
 ## 👋 Hi, I'm the creator of playloltcg.help

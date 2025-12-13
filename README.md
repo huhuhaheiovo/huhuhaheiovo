@@ -10,7 +10,7 @@ I'm building an unofficial Riftbound tools & rules reference website
 focused on helping players quickly find rules and build decks.
 
 🔗 Website: https://playloltcg.help/
-
+🔗 Website: [riftbound-deck](https://www.riftbound-deck.org/)
 ### What this project is about
 - Fast and clear rule lookup
 - Keyword-based rules search
